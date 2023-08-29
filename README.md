@@ -49,5 +49,3 @@ In the project directory, run the following commands and follow on-screen instru
 4. `serve -s build`
 
 	Deploy the production ready code
-
-#### Please contact (rastogi_kush@yahoo.co.in) for usage permission and feedback.
